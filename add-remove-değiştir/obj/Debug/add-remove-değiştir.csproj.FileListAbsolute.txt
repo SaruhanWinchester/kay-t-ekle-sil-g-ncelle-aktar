@@ -1,0 +1,9 @@
+C:\Users\aidata\Documents\Visual Studio 2012\Projects\add-remove-değiştir\add-remove-değiştir\bin\Debug\add-remove-değiştir.exe.config
+C:\Users\aidata\Documents\Visual Studio 2012\Projects\add-remove-değiştir\add-remove-değiştir\bin\Debug\add-remove-değiştir.exe
+C:\Users\aidata\Documents\Visual Studio 2012\Projects\add-remove-değiştir\add-remove-değiştir\bin\Debug\add-remove-değiştir.pdb
+C:\Users\aidata\Documents\Visual Studio 2012\Projects\add-remove-değiştir\add-remove-değiştir\obj\Debug\add-remove-değiştir.csprojResolveAssemblyReference.cache
+C:\Users\aidata\Documents\Visual Studio 2012\Projects\add-remove-değiştir\add-remove-değiştir\obj\Debug\add_remove_değiştir.Form1.resources
+C:\Users\aidata\Documents\Visual Studio 2012\Projects\add-remove-değiştir\add-remove-değiştir\obj\Debug\add_remove_değiştir.Properties.Resources.resources
+C:\Users\aidata\Documents\Visual Studio 2012\Projects\add-remove-değiştir\add-remove-değiştir\obj\Debug\add-remove-değiştir.csproj.GenerateResource.Cache
+C:\Users\aidata\Documents\Visual Studio 2012\Projects\add-remove-değiştir\add-remove-değiştir\obj\Debug\add-remove-değiştir.exe
+C:\Users\aidata\Documents\Visual Studio 2012\Projects\add-remove-değiştir\add-remove-değiştir\obj\Debug\add-remove-değiştir.pdb
