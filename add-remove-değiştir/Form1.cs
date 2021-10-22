@@ -44,15 +44,9 @@ namespace add_remove_değiştir
         private void button5_Click(object sender, EventArgs e)
         {
             //DEĞER GÜNCELLEME
-            if (listBox1.SelectedIndex == 1)
-            {
-                int index = listBox1.SelectedIndex;
-                listBox1.Items.Remove(listBox1.SelectedItem);
-                listBox1.Items.Insert(index, textBox3.Text);
-            }
-            else
-            
-                MessageBox.Show("Güncellemek İçin Değer Seçiniz","UYARI",MessageBoxButtons.OK,MessageBoxIcon.Error);
+            int index = listBox1.SelectedIndex;
+            listBox1.Items.Remove(listBox1.SelectedItem);
+            listBox1.Items.Insert(index, textBox3.Text);
         }
         // AŞAĞIDA LİSTBOX ARASI AKTARMA GÖZÜKMEKTEDİR.
         private void button6_Click(object sender, EventArgs e)
